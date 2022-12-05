@@ -1,0 +1,15 @@
+{
+  "name": "boronide_bot",
+  "version": "1.0.0",
+  "description": "A discord bot using Boronide v0.2.4.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Boronide",
+    "Roblox"
+  ],
+  "author": "Nicuse",
+  "license": "MIT"
+}
